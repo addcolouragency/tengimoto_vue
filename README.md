@@ -1,4 +1,4 @@
-# vue-next-webpack-preview
+# TengiMoto Platform
 
 > Minimal webpack setup for Vue 3 (RC)
 
